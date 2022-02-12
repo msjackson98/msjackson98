@@ -1,6 +1,6 @@
 - 🐙 Hi, I’m @msjackson98
-- 🌟 I’m interested in becoming a front-end developer
-- 📚 I just started Harvard's CS50
+- 🌞 I love being creative and am working towards becoming a front-end developer
+- 📚 I'm currently working on finishing up Harvard's CS50
 - 📫 You can reach me at sarahmjackson98@gmail.com
 
 <!---
